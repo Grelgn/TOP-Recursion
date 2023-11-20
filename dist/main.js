@@ -1,0 +1,1 @@
+(()=>{"use strict";!function(o){let t,s=1,c=1;const e=[0,1];for(let o=0;o<18;o++)e.push(c),t=c+s,s=c,c=t;console.log(e)}()})();
